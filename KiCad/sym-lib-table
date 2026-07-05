@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "Midea WiFi Dongle-cache") (type "Legacy") (uri "/home/ux/Projects/mideahvac-dongle/KiCad/Midea WiFi Dongle-cache.lib") (options "") (descr "Legacy project cache library"))
+)
